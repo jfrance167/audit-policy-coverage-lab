@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "source_kind": "synthetic",
+  "label": "Declared successful auditing disabled",
+  "captured_at": "2026-10-05T11:00:00Z",
+  "scope": "system",
+  "subcategories": [
+    {"guid": "0cce921d-69ae-11d9-bed3-505054503030", "success": false, "failure": true}
+  ]
+}

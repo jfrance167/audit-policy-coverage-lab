@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "source_kind": "synthetic",
+  "label": "Policy enabled with missing collection context",
+  "captured_at": "2026-10-05T11:00:00Z",
+  "scope": "system",
+  "subcategories": [
+    {"guid": "{0CCE921D-69AE-11D9-BED3-505054503030}", "display_name": "File System", "success": true, "failure": false}
+  ]
+}

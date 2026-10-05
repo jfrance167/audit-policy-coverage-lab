@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "source_kind": "synthetic",
+  "label": "All supplied prerequisites declared present; effective coverage unknown",
+  "captured_at": "2026-10-05T11:00:00Z",
+  "scope": "system",
+  "subcategories": [
+    {"guid": "0cce921d-69ae-11d9-bed3-505054503030", "success": true, "failure": false}
+  ],
+  "declarations": {
+    "per_user_context": true,
+    "gpo_context": true,
+    "audit_options_context": true,
+    "matching_sacl": true,
+    "security_log_access": true,
+    "retention": true,
+    "collector_health": true
+  }
+}

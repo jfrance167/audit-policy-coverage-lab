@@ -1,0 +1,10 @@
+__pycache__/
+verification-runs/
+*.tmp
+reports/
+.test-audit-*/
+STATE.md
+.private/
+.env
+.env.*
+.venv/
